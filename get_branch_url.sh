@@ -123,7 +123,7 @@ function getbranch() {
       echo "${finalUrl}?ufcc_onbrand_branch=${gitBranch}"
 
     else  
-      echo "You're not on a git branch!"
+       echo "Bruh, you're not on a git branch."
   fi
   
 }
