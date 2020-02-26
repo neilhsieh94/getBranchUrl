@@ -30,6 +30,7 @@
 
 4. Restart your terminal and voila!
 
+
 To change name of function call, simply change the
 function name below where indicated. Then restart your terminal.
 
