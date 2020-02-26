@@ -8,11 +8,11 @@
 
 1. Copy this file into your home directory
 
-   a) In terminal: `cd ~`
+   a) Terminal > `cd ~`
    
    b) To copy, open the current folder in finder,
    
-   In Terminal: ``open `pwd` ``
+      Terminal > ``open `pwd` ``
    
    c) Copy and pasta in there
 
@@ -20,11 +20,11 @@
 
    a) From anywhere in terminal,
    
-   In Terminal: code ~/.bash_profile
+      Terminal > `code ~/.bash_profile`
 
 3. Copy paste this in the last line
 
-   source ~/get_branch_url.sh
+   `source ~/get_branch_url.sh`
 
    (this will allow you to run this file in all new terminals)
 
