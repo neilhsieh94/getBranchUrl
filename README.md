@@ -12,7 +12,7 @@
    
    b) To copy, open the current folder in finder,
    
-   In Terminal: ``open \`pwd\```
+   In Terminal: ``open `pwd` ``
    
    c) Copy and pasta in there
 
