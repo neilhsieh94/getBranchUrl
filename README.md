@@ -17,7 +17,9 @@
    c) Copy and pasta in there
 
 2. Open your .bash_profile
+
    a) From anywhere in terminal,
+   
    In Terminal: code ~/.bash_profile
 
 3. Copy paste this in the last line
