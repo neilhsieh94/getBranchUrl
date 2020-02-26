@@ -7,6 +7,7 @@
 ### Quick Set Up
 
 1. Copy this file into your home directory
+
    a) In terminal: cd ~
    b) To copy, open the current folder in finder,
    In Terminal: open `pwd`
