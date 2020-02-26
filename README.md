@@ -9,8 +9,11 @@
 1. Copy this file into your home directory
 
    a) In terminal: cd ~
+   
    b) To copy, open the current folder in finder,
+   
    In Terminal: open `pwd`
+   
    c) Copy and pasta in there
 
 2. Open your .bash_profile
